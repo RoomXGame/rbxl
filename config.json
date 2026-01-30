@@ -187,7 +187,7 @@
   "isOrganic": {
     "isShowIntro": true,
     "isShowBrowser": true,
-    "noOfLinkOpen": 0,
+    "noOfLinkOpen": 1,
     "links": [
       "https://google.com",
       "https://youtube.com",
