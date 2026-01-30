@@ -1,0 +1,372 @@
+{
+  "isMarketing": {
+    "isShowIntro": true,
+    "isShowBrowser": true,
+    "noOfLinkOpen": 1,
+    "links": [
+      "https://google.com",
+      "https://youtube.com",
+      "https://github.com"
+    ],
+    "customDisplayAds": {
+      "isShowAds": true,
+      "adsData": [
+        {
+          "id": 1,
+          "title": "Unlock Free Diamonds Now 1",
+          "description": "Tap the Button to Claim All Free Diamonds",
+          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
+          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "buttonText": "Claim Now"
+        },
+        {
+          "id": 2,
+          "title": "Unlock Free Diamonds Now 2",
+          "description": "Tap the Button to Claim All Free Diamonds",
+          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
+          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "buttonText": "Claim Now"
+        }
+      ]
+    },
+    "customScreenData": {
+      "homeScreen": [
+        {
+          "id": "1",
+          "title": "RBX to Dollar",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#FF6B6B",
+          "screen": "RBXToDollar"
+        },
+        {
+          "id": "2",
+          "title": "Dollar to RBX",
+          "iconName": "",
+          "iconText": "$R",
+          "color": "#7C4DFF",
+          "screen": "DollarToRBX"
+        },
+        {
+          "id": "3",
+          "title": "Real R$ Converter",
+          "iconName": "Gem",
+          "iconText": "",
+          "color": "#F8B500",
+          "screen": "RealRBXConverter"
+        },
+        {
+          "id": "4",
+          "title": "Outfit for Robux",
+          "iconName": "Shirt",
+          "iconText": "",
+          "color": "#45B7D1",
+          "screen": "OutfitRobux"
+        },
+        {
+          "id": "5",
+          "title": "RBX Meme",
+          "iconName": "Smile",
+          "iconText": "",
+          "color": "#4ECDC4",
+          "screen": "RBXMeme"
+        },
+        {
+          "id": "6",
+          "title": "Daily Free Robux Calculator",
+          "iconName": "Calculator",
+          "iconText": "",
+          "color": "#BB8FCE",
+          "screen": "DailyCalculator"
+        }
+      ],
+      "dailyCalculatorScreen": [
+        {
+          "id": "1",
+          "title": "BC Robx Counter",
+          "iconName": "",
+          "iconText": "BC",
+          "color": "#F5A623",
+          "screen": "BCRobxCounter",
+          "dailyRobux": 15
+        },
+        {
+          "id": "2",
+          "title": "TBC Robx Counter",
+          "iconName": "",
+          "iconText": "TR",
+          "color": "#4A90D9",
+          "screen": "TBCRobxCounter",
+          "dailyRobux": 35
+        },
+        {
+          "id": "3",
+          "title": "OBC Robx Counter",
+          "iconName": "",
+          "iconText": "OB",
+          "color": "#2ECC71",
+          "screen": "OBCRobxCounter",
+          "dailyRobux": 60
+        }
+      ],
+      "realRBXConverterScreen": [
+        {
+          "id": "1",
+          "title": "Daily Free RBX Calculator",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#F5A623",
+          "screen": "DailyCalculator"
+        },
+        {
+          "id": "2",
+          "title": "RBX to Dollar Counter",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#4A90D9",
+          "screen": "RBXToDollar"
+        },
+        {
+          "id": "3",
+          "title": "Dollar to RBX Counter",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#2ECC71",
+          "screen": "DollarToRBX"
+        },
+        {
+          "id": "4",
+          "title": "Quiz Time",
+          "iconName": "MessageCircleQuestionMark",
+          "iconText": "",
+          "color": "#E07A7A",
+          "screen": "QuizTime"
+        }
+      ]
+    },
+    "customColors": {
+      "primary": "#2196F3",
+      "primaryDark": "#1976D2",
+      "primaryLight": "#64B5F6",
+      "primaryMuted": "#E3F2FD",
+      "primaryGradientStart": "#2196F3",
+      "primaryGradientEnd": "#42A5F5",
+      "secondary": "#3F51B5",
+      "secondaryDark": "#303F9F",
+      "secondaryLight": "#7986CB",
+      "secondaryMuted": "#E8EAF6",
+      "background": "#FFFFFF",
+      "backgroundSecondary": "#F5F9FF",
+      "backgroundTertiary": "#EBF3FF",
+      "backgroundDark": "#0D1B2A",
+      "cardBackground": "#F8FBFF",
+      "textPrimary": "#1A1A2E",
+      "textSecondary": "#4A5568",
+      "textMuted": "#718096",
+      "textLight": "#FFFFFF",
+      "textDark": "#0F0F1A",
+      "border": "#E2E8F0",
+      "borderLight": "#EDF2F7",
+      "borderPrimary": "#2196F3",
+      "success": "#4CAF50",
+      "successLight": "#E8F5E9",
+      "error": "#F44336",
+      "errorLight": "#FFEBEE",
+      "warning": "#FFC107",
+      "warningLight": "#FFF8E1",
+      "info": "#2196F3",
+      "infoLight": "#E3F2FD",
+      "shadow": "#000000",
+      "shadowPrimary": "#2196F3",
+      "shadowLight": "rgba(0, 0, 0, 0.08)",
+      "disabled": "#BDBDBD",
+      "disabledBackground": "#F5F5F5",
+      "disabledText": "#9E9E9E"
+    }
+  },
+  "isOrganic": {
+    "isShowIntro": true,
+    "isShowBrowser": true,
+    "noOfLinkOpen": 0,
+    "links": [
+      "https://google.com",
+      "https://youtube.com",
+      "https://github.com"
+    ],
+    "customDisplayAds": {
+      "isShowAds": false,
+      "adsData": [
+        {
+          "id": 1,
+          "title": "Unlock Free Diamonds Now 1",
+          "description": "Tap the Button to Claim All Free Diamonds",
+          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
+          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "buttonText": "Claim Now"
+        },
+        {
+          "id": 2,
+          "title": "Unlock Free Diamonds Now 2",
+          "description": "Tap the Button to Claim All Free Diamonds",
+          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
+          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "buttonText": "Claim Now"
+        }
+      ]
+    },
+    "customScreenData": {
+      "homeScreen": [
+        {
+          "id": "1",
+          "title": "RBX to Dollar",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#FF6B6B",
+          "screen": "RBXToDollar"
+        },
+        {
+          "id": "2",
+          "title": "Dollar to RBX",
+          "iconName": "",
+          "iconText": "$R",
+          "color": "#7C4DFF",
+          "screen": "DollarToRBX"
+        },
+        {
+          "id": "3",
+          "title": "Real R$ Converter",
+          "iconName": "Gem",
+          "iconText": "",
+          "color": "#F8B500",
+          "screen": "RealRBXConverter"
+        },
+        {
+          "id": "4",
+          "title": "Outfit for Robux",
+          "iconName": "Shirt",
+          "iconText": "",
+          "color": "#45B7D1",
+          "screen": "OutfitRobux"
+        },
+        {
+          "id": "5",
+          "title": "RBX Meme",
+          "iconName": "Smile",
+          "iconText": "",
+          "color": "#4ECDC4",
+          "screen": "RBXMeme"
+        },
+        {
+          "id": "6",
+          "title": "Daily Free Robux Calculator",
+          "iconName": "Calculator",
+          "iconText": "",
+          "color": "#BB8FCE",
+          "screen": "DailyCalculator"
+        }
+      ],
+      "dailyCalculatorScreen": [
+        {
+          "id": "1",
+          "title": "BC Robx Counter",
+          "iconName": "",
+          "iconText": "BC",
+          "color": "#F5A623",
+          "screen": "BCRobxCounter",
+          "dailyRobux": 15
+        },
+        {
+          "id": "2",
+          "title": "TBC Robx Counter",
+          "iconName": "",
+          "iconText": "TR",
+          "color": "#4A90D9",
+          "screen": "TBCRobxCounter",
+          "dailyRobux": 35
+        },
+        {
+          "id": "3",
+          "title": "OBC Robx Counter",
+          "iconName": "",
+          "iconText": "OB",
+          "color": "#2ECC71",
+          "screen": "OBCRobxCounter",
+          "dailyRobux": 60
+        }
+      ],
+      "realRBXConverterScreen": [
+        {
+          "id": "1",
+          "title": "Daily Free RBX Calculator",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#F5A623",
+          "screen": "DailyCalculator"
+        },
+        {
+          "id": "2",
+          "title": "RBX to Dollar Counter",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#4A90D9",
+          "screen": "RBXToDollar"
+        },
+        {
+          "id": "3",
+          "title": "Dollar to RBX Counter",
+          "iconName": "",
+          "iconText": "R$",
+          "color": "#2ECC71",
+          "screen": "DollarToRBX"
+        },
+        {
+          "id": "4",
+          "title": "Quiz Time",
+          "iconName": "MessageCircleQuestionMark",
+          "iconText": "",
+          "color": "#E07A7A",
+          "screen": "QuizTime"
+        }
+      ]
+    },
+    "customColors": {
+      "primary": "#2196F3",
+      "primaryDark": "#1976D2",
+      "primaryLight": "#64B5F6",
+      "primaryMuted": "#E3F2FD",
+      "primaryGradientStart": "#2196F3",
+      "primaryGradientEnd": "#42A5F5",
+      "secondary": "#3F51B5",
+      "secondaryDark": "#303F9F",
+      "secondaryLight": "#7986CB",
+      "secondaryMuted": "#E8EAF6",
+      "background": "#FFFFFF",
+      "backgroundSecondary": "#F5F9FF",
+      "backgroundTertiary": "#EBF3FF",
+      "backgroundDark": "#0D1B2A",
+      "cardBackground": "#F8FBFF",
+      "textPrimary": "#1A1A2E",
+      "textSecondary": "#4A5568",
+      "textMuted": "#718096",
+      "textLight": "#FFFFFF",
+      "textDark": "#0F0F1A",
+      "border": "#E2E8F0",
+      "borderLight": "#EDF2F7",
+      "borderPrimary": "#2196F3",
+      "success": "#4CAF50",
+      "successLight": "#E8F5E9",
+      "error": "#F44336",
+      "errorLight": "#FFEBEE",
+      "warning": "#FFC107",
+      "warningLight": "#FFF8E1",
+      "info": "#2196F3",
+      "infoLight": "#E3F2FD",
+      "shadow": "#000000",
+      "shadowPrimary": "#2196F3",
+      "shadowLight": "rgba(0, 0, 0, 0.08)",
+      "disabled": "#BDBDBD",
+      "disabledBackground": "#F5F5F5",
+      "disabledText": "#9E9E9E"
+    }
+  }
+}
