@@ -360,5 +360,7 @@
       "disabledBackground": "#F5F5F5",
       "disabledText": "#9E9E9E"
     }
-  }
+  },
+  "privacyPolicy": "https://rbxlavatar.com/privacy-policy",
+  "terms": "https://rbxlavatar.com/terms"
 }
