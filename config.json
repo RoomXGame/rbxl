@@ -194,7 +194,7 @@
       "https://github.com"
     ],
     "customDisplayAds": {
-      "isShowAds": false,
+      "isShowAds": true,
       "adsData": [
         {
           "id": 1,
