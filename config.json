@@ -15,16 +15,16 @@
           "id": 1,
           "title": "Unlock Free Diamonds Now 1",
           "description": "Tap the Button to Claim All Free Diamonds",
-          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
-          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "imageUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/banner_one.webp",
+          "logoUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/logo.webp",
           "buttonText": "Claim Now"
         },
         {
           "id": 2,
           "title": "Unlock Free Diamonds Now 2",
           "description": "Tap the Button to Claim All Free Diamonds",
-          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
-          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "imageUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/banner_one.webp",
+          "logoUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/logo.webp",
           "buttonText": "Claim Now"
         }
       ]
@@ -200,16 +200,8 @@
           "id": 1,
           "title": "Unlock Free Diamonds Now 1",
           "description": "Tap the Button to Claim All Free Diamonds",
-          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
-          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
-          "buttonText": "Claim Now"
-        },
-        {
-          "id": 2,
-          "title": "Unlock Free Diamonds Now 2",
-          "description": "Tap the Button to Claim All Free Diamonds",
-          "imageUrl": "http://165.227.200.51/skintool/banner_one.webp",
-          "logoUrl": "http://165.227.200.51/skintool/logo.webp",
+          "imageUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/banner_one.webp",
+          "logoUrl": "https://raw.githubusercontent.com/RoomXGame/rbxl/refs/heads/main/skintool/logo.webp",
           "buttonText": "Claim Now"
         }
       ]
