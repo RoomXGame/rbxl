@@ -3,6 +3,7 @@
     "isShowIntro": true,
     "isShowBrowser": true,
     "noOfLinkOpen": 1,
+    "extraButtonShow": true,
     "links": [
       "https://google.com",
       "https://youtube.com",
@@ -188,6 +189,7 @@
     "isShowIntro": true,
     "isShowBrowser": true,
     "noOfLinkOpen": 1,
+    "extraButtonShow": true,
     "links": [
       "https://google.com",
       "https://youtube.com",
