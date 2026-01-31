@@ -1,17 +1,17 @@
 {
   "isMarketing": {
-    "isShowIntro": true,
-    "isShowBrowser": true,
+    "isShowIntro": false,
+    "isShowBrowser": false,
     "noOfLinkOpen": 1,
     "adsShowClickCount": 1,
-    "extraButtonShow": true,
+    "extraButtonShow": false,
     "links": [
       "https://google.com",
       "https://youtube.com",
       "https://github.com"
     ],
     "customDisplayAds": {
-      "isShowAds": true,
+      "isShowAds": false,
       "adsData": [
         {
           "id": 1,
@@ -187,11 +187,11 @@
     }
   },
   "isOrganic": {
-    "isShowIntro": true,
-    "isShowBrowser": true,
+    "isShowIntro": false,
+    "isShowBrowser": false,
     "noOfLinkOpen": 1,
-    "adsShowClickCount": 2,
-    "extraButtonShow": true,
+    "adsShowClickCount": 1,
+    "extraButtonShow": false,
     "links": [
       "https://google.com",
       "https://youtube.com",
