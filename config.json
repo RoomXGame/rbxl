@@ -1,17 +1,17 @@
 {
   "isMarketing": {
-    "isShowIntro": false,
-    "isShowBrowser": false,
+    "isShowIntro": true,
+    "isShowBrowser": true,
     "noOfLinkOpen": 1,
     "adsShowClickCount": 1,
-    "extraButtonShow": false,
+    "extraButtonShow": true,
     "links": [
       "https://google.com",
       "https://youtube.com",
       "https://github.com"
     ],
     "customDisplayAds": {
-      "isShowAds": false,
+      "isShowAds": true,
       "adsData": [
         {
           "id": 1,
