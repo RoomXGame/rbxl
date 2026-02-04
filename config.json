@@ -5,11 +5,7 @@
     "noOfLinkOpen": 1,
     "adsShowClickCount": 1,
     "extraButtonShow": true,
-    "links": [
-      "https://google.com",
-      "https://youtube.com",
-      "https://github.com"
-    ],
+    "links": ["https://play139.gamexzon.com"],
     "customDisplayAds": {
       "isShowAds": true,
       "adsData": [
